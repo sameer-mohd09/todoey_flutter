@@ -20,7 +20,7 @@ A simple and elegant to-do list app built with Flutter.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/todoey_flutter.git
+    git clone https://github.com/sameer-mohd09/todoey_flutter.git
     ```
 2. Navigate to the project directory:
     ```bash
