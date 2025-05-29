@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'package:todoey_flutter/models/task_data.dart';
 
 // Primary Colors
 const Color primaryColor = Color(0xFF4A90E2); // Soft Blue (AppBar, FAB)
